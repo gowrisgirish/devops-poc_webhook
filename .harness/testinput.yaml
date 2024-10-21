@@ -8,4 +8,4 @@ inputSet:
     variables:
       - name: test_variable
         type: String
-        value: testing
+        value: testing123
