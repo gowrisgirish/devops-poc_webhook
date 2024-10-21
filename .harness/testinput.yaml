@@ -1,0 +1,11 @@
+inputSet:
+  name: test
+  identifier: test
+  orgIdentifier: Customer_Experience
+  projectIdentifier: Labs
+  pipeline:
+    identifier: pipeline_from_devopspoc_webhook
+    variables:
+      - name: test_variable
+        type: String
+        value: testing
